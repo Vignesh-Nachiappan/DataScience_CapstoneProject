@@ -1,2 +1,3 @@
 # DataScience_CapstoneProject
-Capstone Project for IBM Data Science Professional Certificate
+Capstone Project of IBM Data Science Professional Certificate
+It is created for Capstone Project of IBM Data Science Professional Certificate
